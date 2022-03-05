@@ -1,3 +1,9 @@
+# Binary
+binary_csv
+
+# Swap files
+*.swp
+
 # Prerequisites
 *.d
 

@@ -11,6 +11,7 @@ void tearDown()
 int main()
 {
     UNITY_BEGIN();
+    TEST_RUN_GROUP(decoder);
     TEST_RUN_GROUP(encoder);
     return UNITY_END();
 }
